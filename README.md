@@ -163,6 +163,7 @@
 ###### [一行Python命令搭建HTTP服务](https://github.com/Qingquan-Li/blog/issues/170)
 ###### [Python Bitwise Operators](https://github.com/Qingquan-Li/blog/issues/276)
 ###### [Speech-to-Text with Faster-Whisper and Vosk](https://github.com/Qingquan-Li/blog/issues/283)
+###### [Speech-to-Text with Faster-Whisper and GPU Acceleration](https://github.com/Qingquan-Li/blog/issues/284)
 
 <br>
 
