@@ -332,6 +332,7 @@
 
 ###### [Commonly Used Docker Commands](https://github.com/Qingquan-Li/blog/issues/241)
 ###### [Run Kubernetes Dashboard](https://github.com/Qingquan-Li/blog/issues/266)
+###### [Create a Kubernetes cluster with Rancher and RKE2](https://github.com/Qingquan-Li/blog/issues/285)
 
 <br>
 
