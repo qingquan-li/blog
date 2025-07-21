@@ -334,6 +334,7 @@
 ###### [Run Kubernetes Dashboard](https://github.com/Qingquan-Li/blog/issues/266)
 ###### [Create a Kubernetes cluster with RKE2 , Rancher, and Ubuntu 22.04](https://github.com/Qingquan-Li/blog/issues/285)
 ###### [Create a Kubernetes cluster with RKE2 , Rancher, and RHEL 7.9](https://github.com/Qingquan-Li/blog/issues/286)
+###### [Generate Kubernetes YAML with kubectl dry-run](https://github.com/Qingquan-Li/blog/issues/287)
 
 <br>
 
