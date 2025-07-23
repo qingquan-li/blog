@@ -295,7 +295,6 @@
 ###### [在 Debian 上安装和使用 openmediavault](https://github.com/Qingquan-Li/blog/issues/159)
 ###### [VS Code Remote development over SSH](https://github.com/Qingquan-Li/blog/issues/178)
 ###### [Linux System Log Size Optimization](https://github.com/Qingquan-Li/blog/issues/240)
-###### [Commonly Used Docker Commands](https://github.com/Qingquan-Li/blog/issues/241)
 ###### [Pattern Matching Utilities, Shell, and Shell Scripting](https://github.com/Qingquan-Li/blog/issues/282)
 
 <br>
@@ -335,6 +334,7 @@
 ###### [Create a Kubernetes cluster with RKE2 , Rancher, and Ubuntu 22.04](https://github.com/Qingquan-Li/blog/issues/285)
 ###### [Create a Kubernetes cluster with RKE2 , Rancher, and RHEL 7.9](https://github.com/Qingquan-Li/blog/issues/286)
 ###### [Generate Kubernetes YAML with kubectl dry-run](https://github.com/Qingquan-Li/blog/issues/287)
+###### [Install Appsmith in Kubernetes](https://github.com/Qingquan-Li/blog/issues/288)
 
 <br>
 
