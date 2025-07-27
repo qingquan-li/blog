@@ -134,7 +134,7 @@
 ###### [安装Python（Linux／macOS／Windows）](https://github.com/Qingquan-Li/blog/issues/80)
 ###### [Python编码风格](https://github.com/Qingquan-Li/blog/issues/86)
 ###### [pip安装及使用](https://github.com/Qingquan-Li/blog/issues/87)
-###### [为Python项目建立虚拟环境](https://github.com/Qingquan-Li/blog/issues/85)
+###### [Create a Virtual Environment for a Python Project](https://github.com/Qingquan-Li/blog/issues/85)
 ###### [Python3数据类型](https://github.com/Qingquan-Li/blog/issues/81)
 ###### [Python元组和列表](https://github.com/Qingquan-Li/blog/issues/172)
 ###### [Python实参形参](https://github.com/Qingquan-Li/blog/issues/84)
