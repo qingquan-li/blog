@@ -307,6 +307,7 @@
 ###### [Create a Kubernetes cluster with RKE2 , Rancher, and RHEL 7.9](https://github.com/Qingquan-Li/blog/issues/286)
 ###### [Generate Kubernetes YAML with kubectl dry-run](https://github.com/Qingquan-Li/blog/issues/287)
 ###### [Install Appsmith in Kubernetes](https://github.com/Qingquan-Li/blog/issues/288)
+###### [Deploy Superset in Kubernetes](https://github.com/Qingquan-Li/blog/issues/289)
 
 <br>
 
