@@ -308,6 +308,7 @@
 ###### [Generate Kubernetes YAML with kubectl dry-run](https://github.com/Qingquan-Li/blog/issues/287)
 ###### [Install Appsmith in Kubernetes](https://github.com/Qingquan-Li/blog/issues/288)
 ###### [Deploy Superset in Kubernetes](https://github.com/Qingquan-Li/blog/issues/289)
+###### [Deploy Dremio in Kubernetes](https://github.com/Qingquan-Li/blog/issues/290)
 
 <br>
 
