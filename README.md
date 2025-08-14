@@ -309,6 +309,7 @@
 ###### [Install Appsmith in Kubernetes](https://github.com/Qingquan-Li/blog/issues/288)
 ###### [Deploy Superset in Kubernetes](https://github.com/Qingquan-Li/blog/issues/289)
 ###### [Deploy Dremio in Kubernetes](https://github.com/Qingquan-Li/blog/issues/290)
+###### [Deploy Hive for Dremio in Kubernetes](https://github.com/Qingquan-Li/blog/issues/291)
 
 <br>
 
