@@ -270,7 +270,7 @@
 ###### [Setup WireGuard VPN](https://github.com/Qingquan-Li/blog/issues/239)
 ###### [Configure HTTPS Server for Local Development Environment](https://github.com/Qingquan-Li/blog/issues/265)
 ###### [Bypass CORS](https://github.com/Qingquan-Li/blog/issues/267)
-###### [IP Addressing, CIDR, and Subnet Mask](https://github.com/Qingquan-Li/blog/issues/270)
+###### [Network Classes, CIDR, Subnet Mask, and Private IP Address](https://github.com/Qingquan-Li/blog/issues/270)
 
 <br>
 
